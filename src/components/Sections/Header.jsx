@@ -14,7 +14,7 @@ export default function Header() {
         <div>
           <h1 className="extraBold font60">Un Negocio Real En Un Mundo Virtual</h1>
           <HeaderP className="font15 semiBold">
-            Lleva tu empresas y eventos a otro nivel
+            Lleva tus empresas y eventos a otro nivel!
           </HeaderP>
           <BtnWrapper>
             <FullButton title="Visita nuestra oficina virtual" link="https://www.spatial.io/s/Practice-office-64f168e94e139bba10a41ada?share=5830052710864100414"/>
@@ -30,7 +30,7 @@ export default function Header() {
             </QuotesWrapper>
             <div>
               <p className="font15 whiteColor">
-                <em>Podemos pensar en el metaverso como una internet incorporada, donde en lugar de solo ver contenido, etás en él.</em>
+                <em>Podemos pensar en el metaverso como una internet incorporada, donde en lugar de solo ver contenido, etas en él.</em>
               </p>
               <p className="font13 orangeColor textRight" style={{marginTop: '10px'}}>Mark Zuckerberg</p>
             </div>
@@ -78,6 +78,7 @@ const RightSide = styled.div`
 `;
 const HeaderP = styled.div`
   max-width: 470px;
+  font-size: large;
   padding: 15px 0 50px 0;
   line-height: 1.5rem;
   @media (max-width: 960px) {
@@ -87,7 +88,8 @@ const HeaderP = styled.div`
   }
 `;
 const BtnWrapper = styled.div`
-  max-width: 190px;
+  max-width: 250px;
+  font-size: 50px;
   @media (max-width: 960px) {
     margin: 0 auto;
   }

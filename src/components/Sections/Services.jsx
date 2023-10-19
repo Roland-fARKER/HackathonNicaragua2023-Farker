@@ -32,7 +32,7 @@ export default function Services() {
               <ServiceBox
                 icon="browser"
                 title="Espacios virtuales"
-                subtitle="Puedes habilitar tu propia oficina virtual con nosotros y brindar nusvsa experiencias a tus clientes."
+                subtitle="Puedes habilitar tu propia oficina virtual con nosotros y brindar nuevas experiencias a tus clientes."
               />
             </ServiceBoxWrapper>
             
