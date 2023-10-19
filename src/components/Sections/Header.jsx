@@ -30,7 +30,7 @@ export default function Header() {
             </QuotesWrapper>
             <div>
               <p className="font15 whiteColor">
-                <em>Podemos pensar en el metaverso como una internet incorporada, donde en lugar de solo ver contenido, estas en él.</em>
+                <em>Podemos pensar en el metaverso como una internet incorporada, donde en lugar de solo ver contenido, estás en él.</em>
               </p>
               <p className="font13 orangeColor textRight" style={{marginTop: '10px'}}>Mark Zuckerberg</p>
             </div>
