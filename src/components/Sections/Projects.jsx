@@ -50,7 +50,7 @@ export default function Projects() {
             <div style={{ margin: "50px 0", width: "200px" }}>
               <FullButton title="Más proyectos próximamente" action={() => alert("clicked")} />
             </div>
-          </div>
+          </div>   
         </div>
       </div>
       <div className="lightBg">

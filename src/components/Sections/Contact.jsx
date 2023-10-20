@@ -26,7 +26,6 @@ export default function Contact() {
                 <label className="font15">Correo:</label>
                 <input type="text" id="email" name="email" className="font20 extraBold" />
                 <label className="font15">Mensaje:</label>
-                <input type="text" id="subject" name="subject" className="font20 extraBold" />
                 <textarea rows="4" cols="50" type="text" id="message" name="message" className="font20 extraBold" />
               </Form>
               <SumbitWrapper className="flex">
