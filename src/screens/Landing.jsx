@@ -5,13 +5,15 @@ import Header from "../components/Sections/Header";
 import Services from "../components/Sections/Services";
 import Projects from "../components/Sections/Projects";
 import Contact from "../components/Sections/Contact";
-import Footer from "../components/Sections/Footer"
+import Footer from "../components/Sections/Footer";
+import { Hackathon } from "../components/Sections/Hackathon";
 
 export default function Landing() {
   return (
     <>
       <TopNavbar />
       <Header />
+      <Hackathon />
       <Services />
       <Projects />
       <Contact />
@@ -19,5 +21,3 @@ export default function Landing() {
     </>
   );
 }
-
-
