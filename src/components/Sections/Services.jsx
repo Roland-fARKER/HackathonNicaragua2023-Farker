@@ -64,7 +64,7 @@ export default function Services() {
                 </p>
                 <ButtonsRow className="flexNullCenter" style={{ margin: "30px 0"}}>
                   <div style={{ width: "190px" }}>
-                    <FullButton title="Ir al metaverso" link="https://www.spatial.io/s/Practice-office-64f168e94e139bba10a41ada?share=5830052710864100414" />
+                    <FullButton title="Ir al metaverso" link="https://www.spatial.io/s/Oficina-Farker-650026629ab28d7ddccee9f5?share=5329824093680686800" />
                   </div>
                   
                 </ButtonsRow>

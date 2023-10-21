@@ -17,7 +17,7 @@ export default function Header() {
             Lleva tus empresas y eventos a otro nivel!
           </HeaderP>
           <BtnWrapper>
-            <FullButton title="Visita nuestra oficina virtual" link="https://www.spatial.io/s/Practice-office-64f168e94e139bba10a41ada?share=5830052710864100414"/>
+            <FullButton title="Visita nuestra oficina virtual" link="https://www.spatial.io/s/Oficina-Farker-650026629ab28d7ddccee9f5?share=5329824093680686800"/>
           </BtnWrapper>
         </div>
       </LeftSide>
